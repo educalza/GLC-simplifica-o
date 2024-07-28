@@ -40,7 +40,8 @@ Trabalho de Teoria da Computação - Simplificador de Gramática Regular
 {
     "S": ["aAa"],
     "A": ["a","aA"]
-}```
+}
+```
 
 Percebe-se que o "bBb" foi removido, por ser inútil
 
