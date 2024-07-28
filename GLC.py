@@ -126,23 +126,13 @@ caminho_do_arquivo = 'entrada.json'
 gramatica = carregar_gramatica_de_json(caminho_do_arquivo)
 
 gramatica_lc = GramaticaLC(gramatica)
-print("Gramática Original:")
-print(gramatica_lc.gramatica)
 
 gramatica_lc.simplificar_simbolos_inuteis()
-print("\nApós Remover Símbolos Inúteis:")
-print(gramatica_lc.gramatica)
 
 gramatica_lc.simplificar_simbolos_inalcancaveis()
-print("\nApós Remover Símbolos Inalcançáveis:")
-print(gramatica_lc.gramatica)
 
 gramatica_lc.remover_producoes_vazias()
-print("\nApós Remover Produções Vazias:")
-print(gramatica_lc.gramatica)
 
 gramatica_lc.substituir_producoes()
-print("\nApós Substituição de Produções:")
-print(gramatica_lc.gramatica)
 
 salvar_gramatica_em_json(gramatica_lc.gramatica, 'gramatica_simplificada.json')
