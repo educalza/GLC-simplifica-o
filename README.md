@@ -8,16 +8,16 @@ Trabalho de Teoria da Computação - Simplificador de Gramática Regular
 
 - Funções do algoritmo:
   - **Simplificação**
-    - a) símbolos inúteis/inalcançáveis
-    - b) produções vazias
-    - c) substituição de produções
+    - a) símbolos inúteis/inalcançáveis ✓
+    - b) produções vazias ✓
+    - c) substituição de produções ✓
 
   - **Formas Normais**
-    - ~~a) Chomsky~~
-    - ~~b) Greibach~~
+    - ~~a) Chomsky~~ X
+    - ~~b) Greibach~~ X
   - **Melhorias**
-    - ~~a) Fatoração à esquerda~~
-    - ~~b) Remoção de recursão à esquerda~~
+    - ~~a) Fatoração à esquerda~~ X
+    - ~~b) Remoção de recursão à esquerda~~ X
 
 - Criação de um arquivo output em JSON contendo as novas gramáticas simplificadas.
 
