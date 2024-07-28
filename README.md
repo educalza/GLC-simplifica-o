@@ -1,6 +1,6 @@
-## Algoritmo de simplificação de gramáticas Regulares
+## Algoritmo de simplificação de gramáticas livres de contexto
 
-Trabalho de Teoria da Computação - Simplificador de Gramática Regular
+Trabalho de Teoria da Computação - Simplificador de Gramática Livre de Contexto
 
 ## Funcionalidades
 
@@ -25,7 +25,7 @@ Trabalho de Teoria da Computação - Simplificador de Gramática Regular
 
 É necessário o uso de um arquivo para que o programa funcione
 
-### Arquivo de entrada JSON gramáticas regulares
+### Arquivo de entrada JSON gramáticas livres de contexto
 
 ```json
 {
@@ -34,7 +34,7 @@ Trabalho de Teoria da Computação - Simplificador de Gramática Regular
 }
 ```
 
-### Arquivo de saída JSON gramáticas regulares
+### Arquivo de saída JSON gramáticas livres de contexto
 
 ```json
 {
