@@ -32,3 +32,15 @@ Trabalho de Teoria da Computação - Simplificador de Gramática Regular
     "S": ["aAa", "bBb"],
     "A": ["a", "aA"]
 }
+```
+
+### Arquivo de saída JSON gramáticas regulares
+
+```json
+{
+    "S": ["aAa"],
+    "A": ["a","aA"]
+}```
+
+Percebe-se que o "bBb" foi removido, por ser inútil
+
