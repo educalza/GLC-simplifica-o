@@ -1,4 +1,4 @@
-## Simulador automato determinístico finito
+## Algoritmo de simplificação de gramáticas Regulares
 
 Trabalho de Teoria da Computação - Simplificador de Gramática Regular
 
