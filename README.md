@@ -12,11 +12,11 @@ Trabalho de Teoria da Computação - Simplificador de Gramática Regular
     - b) produções vazias
     - c) substituição de produções
   - **Formas Normais**
-    - a) Chomsky
-    - b) Greibach
+    ~~- a) Chomsky~~
+    ~~- b) Greibach~~
   - **Melhorias**
-    - a) Fatoração à esquerda
-    - b) Remoção de recursão à esquerda
+    ~~- a) Fatoração à esquerda~~
+    ~~- b) Remoção de recursão à esquerda~~
 
 - Criação de um arquivo output em JSON contendo as novas gramáticas simplificadas.
 
