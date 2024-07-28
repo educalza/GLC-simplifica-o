@@ -1,8 +1,6 @@
  ## Simulador automato determinístico finito
 
  Trabalho de Teoria da Computação - Simplificador de Gramática Regular
-
-    ~~teste~~
  
  ## Funcionalidades 
 
@@ -13,12 +11,12 @@
         - a) símbolos inúteis/inalcançáveis
         - b) produções vazias
         - c) substituição de produções
-    ~~- **Formas Normais**
-        - a) Chomsky
-        - b) Greibach
-    - **Melhorias**
-        - a) Fatoração à esquerda
-        - b) Remoção de recursão à esquerda~~
+    ~~- **Formas Normais**~~
+        ~~- a) Chomsky~~
+        ~~- b) Greibach~~
+    ~~- **Melhorias**~~
+        ~~- a) Fatoração à esquerda~~
+        ~~- b) Remoção de recursão à esquerda~~
 
     - Criação de um arquivo output em JSON contendo as novas gramáticas simplificadas.
 
