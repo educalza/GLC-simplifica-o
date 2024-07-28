@@ -2,6 +2,7 @@
 
  Trabalho de Teoria da Computação - Simplificador de Gramática Regular
 
+    ~~teste~~
  
  ## Funcionalidades 
 
